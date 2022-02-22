@@ -32,7 +32,7 @@ function HomescreenIndex() {
       <h2>Tételek</h2>
       <ul>
         <li><a href="docs/tetelek/angol">Angol</a></li>
-        <li><a href="docs/tetelek/iroadlom">Irodalom</a></li>
+        <li><a href="docs/tetelek/irodalom">Irodalom</a></li>
         <li><a href="docs/tetelek/nyelvtan">Nyelvtan</a></li>
       </ul>
       <h2>Vázlatok</h2>
