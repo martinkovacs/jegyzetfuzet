@@ -590,6 +590,119 @@ büntetését)
 
 <br />
 
+## 14. Moliere: Tartuffe
+### Moliere jelentősége
+- a francia klasszicista dráma jelentős képviselője (Racine és Corneille mellett)
+- XIV. Lajos király udvari szerzője, kegyeltje
+- vígjátékaiban az emberi hibákat bírálja, teszi nevetségessé - szórakoztató formában:
+Erre utalnak a művek címei is: A fösvény, Mizantróp (Embergyűlölő), Úrhatnám polgár, Képzelt beteg, Tudós nők, Kényeskedők., és a Tartuffe, melynek témája: az álszent, képmutató vallásos magatartás bírálata.
+
+### A mű keletkezése
+- 1664, de a bemutatója nagy botrányt kavart az egyház köreiben
+  - Betiltották
+  - Moliere átírta 5 év múlva
+
+### A cselekmény szerkezete
+- **A késleltetés** technikáját alkalmazza az író: a címszereplő csak a III. felvonás 2. jelenetében lép színre
+  - Előtte megismerhetjük a családtagok róla alkotott véleményét
+    - Ezzel kíváncsivá téve a nézőket, várakozást, feszültséget keltve.
+- 1. előkészítés: Pernelle asszony elutazni készül, együtt reggelizik a családdal, erősen kritizálja őket, dicséri Tartuffe-öt
+- 2. Bonyodalom: Orgon Tartuffe-höz akarja adni lányát, Marianne-t
+- 3. Tetőpont (krízis): Tartuffe leleplezése az asztaljelenetben, a család kilakoltatási terve
+- 4. Megoldás: a király igazságot szolgáltat:Tartuffe börtönbe jut, a fiatalok összeházasodhatnak.
+
+### A nyitó jelenet
+- Pernelle nagymama rossz véleménnyel van a családtagokról
+    - Damis - unokája: léhűtő, butácska
+    - Marianne - unokája: erkölcstelen
+    - Elmira - menye: pazarol, szórja a pénzt, kacéran viselkedik, kihívóan öltözködik, rossz nevelőanya
+    - Dorine - a cselédlány: pimasz, mindenbe beleszól
+    - Cléante- Elmira fivére: furcsa a világnézete, gondolkodása
+- A család Pernelle szerint erkölcstelen, ezért Tartuffe a család megváltója józan, hívő és erkölcsös viselkedésével
+- **A történet során kiderül:**
+    - A fiatalok erkölcsös életet élnek, Marianne hűséges szerelméhez, de nem mer apjának ellentmondani, szófogadó lány
+    - Elmira hűséges férjéhez, jó anya - segíteni próbál Marianne-nak, nagyon bölcs, egyedül neki sikerül majd meggyőznie férjét Tartuffe valódi jelleméről
+    - Dorine bár szószátyár, de segítőkész, nem udvariatlan,
+    - Cléante pedig az észszerűséget képviseli, ő az író szócsöve (véleményének közvetítője) = rezonőr
+- A szereplőket a commedia dell' arte (olasz rögtönzésre épülő vásári komédiák) mintájára alakította Moliere
+    - Naiv szerelmesek: Marienne és Valér
+    - Zord apa: Orgon
+    - Idős kérő: Tartuffe
+    - Cserfes szolga: Dorine
+
+### Tartuffe jelleme
+- **Csak Orgon és Pernelle asszony tartja őt nagyra**, mert ők túl hiszékenyek, így tudott beférkőzni a családba Tartuffe,
+    - már a nyitó jelenetben elmondta Pernelle, hogy Tartuffe szent ember, erkölcsös…..
+    - Orgon egy utazásról hazatérve (I. felvonás 4. jelenet) csak Tartuffe-ről kérdezi a szolgálót, még beteg felesége hogyléte sem érdekli
+    - Cléanténak jellemzi Tartuffe-t: egy templomban találkozott először Tartuffe-vel, jámbor, adakozó volt, szétosztotta a neki adott pénzt, önvádló (egy bolha elpusztítása miatt is), vigyáz a feleségére
+- **A többi családtag átlát Tartuffe-ön**
+    - Szerintük: "álszent törtető", "buzgó erkölcsbíró", "koldusként jött", de már családfőként viselkedik, zsarnokként uralkodik a családon
+- Látják, hogy Orgon számára Tartuffe szava szent, úgy ragaszkodik hozzá, mintha szeretője vagy testvére volna, számára ő a hős
+    - "Tartuffe bolondja", rábízta minden titkát.
+- **A látszat:** Tartuffe mélyen vallásos, aszkéta életet él, mint egy szerzetes, megveti a pénzt és a testi vágyakat.
+- **A valóság:**
+    - Szeret mohón enni, inni,
+    - Vonzódik Elmirához (Orgon feleségéhez)
+    - Csaló: anyagi haszonért férkőzött be a családba
+        - Megszerezte a házat, Orgon teljes vagyonát, sőt a lányát is elvenné, miközben a feleséghez vonzódik.
+    - Erkölcstelen, álszent törtető, ravasz, céltudatos, erkölcsi gátlások nélkül megszerzi, amit akar
+
+### Többen próbálják meggyőzni Orgont
+- **Dorine bátran**, talpraesetten, észszerűen érvel a fiatalok házasságkötése mellett,
+    - Szókimondó, őszinte, ironikus
+    - Orgon csak szolgaként tekint rá
+- **Cléante** is ésszerű érveket hoz fel: "tényt és látszatot te összekevered", "a szentek nem az ábrázatukon hordják, ami szent"
+- **Marianne nem mer** kiállni szerelme mellett
+- **Damis indulatosan** közli apjával a véleményét, nem tud úrrá lenni érzelmein, ezért nem sikerül apját meggyőznie, pedig ő lenne a jogos örökös és nem Tartuffe
+- **Elmira tudja egyedül meggyőzni férjét**, mivel az érvek nem hatottak rá, ezért cselhez folyamodik: az asztal alá bújtatja Orgont, amíg ő Tartuffe-nek szerelmet színlel
+    - Orgon tapasztalat útján érzékeli, milyen is valójában Tartuffe (IV. felvonás) = **asztaljelenet**
+- Orgon (és Pernelle) tehát túl hiszékeny, Tartuffe pedig álszent törtető
+    - Minden eltérnek a mértéktartástól, az észszerűségtől, **őket bírálja művében az író, jellemhibájukat teszi nevetségessé**
+
+### A francia klasszicista drámák sajátossága
+- **Mértéktartás**
+- **Észszerűség fontosságát hirdetése**
+    - Képviseli: Dorine, Cléante és Elmira
+- **Tanító célzatú**
+    - Veszélyes lehet egy család számára egy idegen betolakodó
+    - A fanatizmus és a gonoszság veszélyezteti mások boldogságát (Marianne-Valér)
+    - Az álszent magatartás súlyos bűn
+    - A csaló, hazug ember előbb-utóbb mindig lelepleződik
+    - A mértéktelen hiszékenység veszélybe sodorhatja az embert
+    - Hallgassunk mások véleményére
+- **Egy polgár családot mutat be**
+- **A hármas egység érvényesül** a műben
+    - Kb. 1 nap alatt
+    - Végig 1 helyszínen (a család nappalijában) játszódik
+    - 1 szálon fut
+- **Pontosan szerkesztett, felvonásokra tagolt**
+- **A versforma: rímes alexandrin** (12 szótagos jambikus (U-) sorok)
+- **Az uralkodó dicsérete** megjelenik benne
+    - Aű végén ő szolgáltat igazságot (deus ex machina-szerűen)
+    - Leleplezi és börtönbe zárja a már régóta keresett csalót, Tartuffe-öt
+    - Orgon utolsó megszólalásában elmondja: menjenek az uralkodó elé, és mondjanak köszönetet
+- **Illendőségnek megfelel a szóhasználata:** mivel már nők is színészek
+
+### A komédia műfaj szabályai szerint szerveződik a cselekmény:
+- Ókori eredetű műfaj
+- **A látszat és valóság ellentétén** alapuló drámai műfaj: benne az álérték (= értékhiány) lelepleződik, és ez vált ki nevetséges hatást
+- Szereplői kisszerű, átlagos emberek, akik nincsenek tisztában jellembeli fogyatékosságaikkal
+- Fontos eleme a **komikum**, mely nevetséges hatást kiváltó esztétikai minőség. Két fajtája van:
+    - **Jellemkomikum:** egy szereplő a belső tulajdonságai miatt válik nevetségessé (pl. Pernelle asszony, Tartuffe, Orgon)
+    - **Helyzetkomikum:** egy szereplő a külső körülmények miatt válik nevetségessé (pl. Orgon és Tartuffe az asztaljelenetben)
+- A komédiák mindig boldogan végződnek
+- Cél: valamely jellembeli, erkölcsi hiba kigúnyolása
+
+### Moliere komédiáinak forrásai:
+- Ókori komédiák (pl. Plautus: A bögre)
+- **Commedia dell' arte** = "mesterség színjátéka", olasz népi bohózat (16-18.sz.), mely rögtönzésre épül, a szerepkörök adottak
+- Farce: ("töltelék") francia bohózat, rövid, komikus, néha trágár szavakat használ, csattanóval zárul, nevetséges helyzetre épül, egy-egy embertípust testesítenek meg a szereplők
+- "Töltelék elnevezés": mert a középkori misztériumok, moralitások betéte volt ez a rövid, humoros történet
+- Moliere darabjai örökérvényű mondanivalót hordoznak, ezért napjainkban is számos színházban játsszák komédiáit
+
+
+<br />
+
 ## 18. Shakespeare: Rómeó és Júlia
 - Shakespeare jelentősége:
 	- Angol reneszánsz drámaíró
