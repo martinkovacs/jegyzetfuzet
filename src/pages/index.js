@@ -49,6 +49,7 @@ function HomescreenIndex() {
         <li><a href="docs/vazlatok/tori/12-2">12-2: Magyarország 1945-1956 között</a></li>
         <li><a href="docs/vazlatok/tori/12-3">12-3: A két világrendszer versengése - a szovjet tömb felbomlása</a></li>
         <li><a href="docs/vazlatok/tori/12-4">12-4: A Kádár-korszak</a></li>
+        <li><a href="docs/vazlatok/tori/12-5">12-5: Az egységesülő Európa, A globalizáció kiteljesedése</a></li>
       </ul>
     </div>
   )

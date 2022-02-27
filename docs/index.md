@@ -21,3 +21,4 @@
 - [12-2: Magyarország 1945-1956 között](vazlatok/tori/12-2)
 - [12-3: A két világrendszer versengése - a szovjet tömb felbomlása](vazlatok/tori/12-3)
 - [12-4: A Kádár-korszak](vazlatok/tori/12-4)
+- [12-5: Az egységesülő Európa, A globalizáció kiteljesedése](vazlatok/tori/12-5)
