@@ -14,8 +14,8 @@
 11. [x] Csokonai Vitéz Mihály
 12. [x] Karinthy Frigyes: Így írtok ti
 13. [ ] Tóth Krisztina: Vonalkód
-14. [ ] Moliere: Tartuffe
-15. [ ] Puskin: Anyegin
+14. [x] Moliere: Tartuffe
+15. [x] Puskin: Anyegin
 16. [ ] XIX. századi polgári dráma: Ibsen: A vadkacsa / Csehov: Sirály
 17. [ ] Madách: Az ember tragédiája
 18. [x] Shakespeare: Rómeó és Júlia
@@ -700,6 +700,92 @@ Erre utalnak a művek címei is: A fösvény, Mizantróp (Embergyűlölő), Úrh
 - "Töltelék elnevezés": mert a középkori misztériumok, moralitások betéte volt ez a rövid, humoros történet
 - Moliere darabjai örökérvényű mondanivalót hordoznak, ezért napjainkban is számos színházban játsszák komédiáit
 
+<br />
+
+## Puskin: Jevgenyij Anyegin
+### Az orosz romantika
+- Késve jelent meg, az 1820-a években.
+- Oka: a társadalmi elmaradottság, a cári önkény, a feudalizmus.
+- Az orosz irodalom a romantikával lett nemzetivé és európaivá.
+### Puskin élete (1799-1837)
+- A korszak kiemelkedő írója, költője
+- Pályája elején írt népies elbeszélő költeménye: Ruszlán és Ludmilla
+- Dél-oroszországi száműzetése idején születnek romantikus elbeszélő költeményei:
+	- A kaukázusi fogoly
+	- A bahcsiszeráji szökőkút
+	- A cigányok
+### **Jevgenyij Anyegin regény**
+- Puskin főműve, 8 éven át írta (1823-1830)
+- **Verses regény** - jellegzetes **romantikus műfaj** ez a versbe szedett történet, mert:
+	- Különböző műnemek keverednek benne: líra + epika
+		- Ezek egyensúlyban
+	- Lírai elemek (az elbeszélő reflexiói, magyarázatai, személyes érzései, kitérői) szerepe jelentős - ez utóbbiban tér el az eposzoktól és az elbeszélő költeménytől
+	- Byron, az angol romantika jelentős alakja a műfaj megteremtője, akire Puskin művében többször név szerint is utal
+- **Az elbeszélő** Anyegin barátjaként szólal meg, ő az, aki a szereplők tetteire, gondolataira reflektál, a mű megírásának éveiről ír, az orosz életről vall = líraiság
+- **Egyszerű romantikus történet:**
+	- Jevgenyij Anyegin, egy kiégett, közönyös pétervári ifjú letelepedik nagybátyja vidéki birtokán, megismerkedik szomszédjával, Lenszkijjel, rajta keresztül a Larin családdal
+	- A család két lánya: Olga és Tatjána
+	- Anyegin visszautasítja Tatjána szerelmét, félreértés és féltékenység miatt párbajban megöli barátját, ezért elutazik
+	- Évekkel később Péterváron találkozik ismét a már férjezett, Tatjánával.
+	- Ezúttal Anyegin vall szerelmet Tatjánának, aki - bár szereti - hűséges marad férjéhez, ezért mindkét főhős élete boldogtalan
+- **A történetet lezáratlanul** fejezi be Puskin, nyitva hagyja Tatjana és Anyegin közti szerelmi kapcsolatot
+	- Beszélgetésüket megzavarja a férj
+	- Nem tudjuk meg, mi lesz Anyegin további sorsa
+- **A szándékolt töredékesség** jellegzetes romantikus vonás:
+	- Bizonyos szövegrészeknél több sor vagy egész versszak kipontozva marad, a hiányzó strófákat csak számok jelzik.
+- **A romantikus irodalmi felfogást követi Puskin:**
+	- Az irodalmi műben megformált emberi sorsok az élet egészéhez képest csak töredékesek, tehát a töredékesség a mű irodalmi voltára, a megalkotottságra hívja fel a figyelmet.
+- **Hangsúlyozott megalkotottság:**
+	- Verses forma: **Anyegin-strófa:** 14 soros, 8-9 szótagos jambikus ritmusú versszak, rímképlete: ababccddeffegg
+	- Számos jegyzettel látta el a művet Puskin: korabeli eseményekre, a szövegrész megírásának körülményeire, életrajzi vonatkozásokra utal,
+	- Öntükröző jellegű - az alkotási folyamatra vonatkozó reflexiók alapján
+	- Tudatos ellentmondások vannak a szövegben
+### Szereplők
+- **Anyegin:**
+	- Jellegzetes romantikus alkat
+	- **Byron** Childe Haroldjához hasonló és életvitele hasonlít Puskinéhoz
+		- A mű elején 18 éves, gazdag, francia nevelői voltak, piperkőc, divatos ifjú
+		- Csak szórakozással tölti idejét: színház, bálok, fogadások, felszínes udvarlás
+		- Nappal alszik, éjszaka él - mint az ifjú Puskin
+		- Jól tud franciául, de felszínes a műveltsége
+		- Beleun ebbe az életvitelbe, ezért nagy tervekkel utazik vidékre
+		- Nincs elég akaratereje, kitartása, ezért nem tudja megvalósítani örökölt birtokán a reformokat - megcsömörlik a vidéki élettől is, unalmasnak tartja
+		- A byroni hősökre jellemző spleen életérzés (Byront olvas!) = világfájdalom hatja át
+	- **Felesleges ember**
+		- A XIX. sz. orosz irodalom jellegzetes alakja, értékes ember, aki értelmes életre vágyik
+		- Képtelen a cselekvésre, cinikus, önző
+		- Nem tud élni az élet adta lehetőségekkel, ezzel tönkreteszi saját és mások életét
+		- (Olga szerelmét megöli Anyegin párbajban, ezzel elveszíti barátját, Tatjánát is boldogtalanná teszi)
+		- Amikor a mű végén beleszeret az igazi nagyvárosi dámává változott Tatjánába, rádöbben, hogy eltékozolta boldogságát
+			- Ez a zárás egyben a romantika kritikája
+			- **Jellemkontraszt** érvényesül a szereplők rendszerében:
+				- Anyegin <-> Lenszkij
+				- Tatjána <-> Olga
+- **Lenszkij**:
+	- Lelkes, romantikus költő, Anyegin barátja, vele ellentétes jellem, Göttingában tanult, Schillert olvas
+	- A szabadságeszményért rajong, művelt, ifjú földesúr, 18 éves
+		- Fiatalabb Anyeginnél
+	- Jóképű, gazdag, menyasszonya Olga -> vannak életcéljai, sikeres, harmonikus élete
+	- Komolyan veszi kapcsolatát -> féltékenységből hívja ki párbajra Anyegint -> hiábavaló halála, Anyegin ártatlan áldozata, halála az illúziók, az álmodozás életképtelenségét jelenti a realitással szemben
+- **Tatjana:**
+	- Befelé forduló, érzékeny lelkű, ösztönös ember,
+	- Más, mint a korabeli vidéki kisasszonyok: sokat olvas (szentimentalista regényeket)
+		- Anyegint regényhősként megidealizálja
+	- Őszinte és bátor, hiszen legmélyebb érzéseit feltárja Anyeginhez írt levelében
+	- Hisz a babonákban, kötődik a vidékhez, a hagyományokhoz
+	- Szerelemről álmodozik, de végül a szokásnak megfelelően megy férjhez
+	- Erkölcsi nemessége Anyegin fölé emeli: nem lesz hűtlen férjéhez, bár mindvégig Anyegint szereti, méltósággal viseli sorsát
+	- A XIX. sz.-i orosz irodalom nőalakjainak ősképe
+- **Olga:**
+	- Tatjana húga, kedves, vidám, közvetlen, szép, felszínes, átlagos
+	- "Az Olga-arcot rendszerint megleled minden regényben"(Puskin)
+	- A **szenvedélyesség**, Tatjana és Anyegin szerelme szintén romantikus vonás
+### Zárás
+- Puskin elégikus hangulatban zárja művét, ezzel már a romantika kritikáját adja
+- **"Az orosz élet enciklopédiája"**
+	- Átfogó képet ad a kor orosz társadalmáról, annak hibáiról
+		- Ez már a realizmust előlegezi meg
+	- Sok mindent az elbeszélőtől tudunk meg az orosz valóságról
 
 <br />
 
