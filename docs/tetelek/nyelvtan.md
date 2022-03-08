@@ -26,7 +26,7 @@ A hallgató azonnal visszajelezhet, kevés idő van az átgondolásra | Késlelt
 Pillanatnyi, helyhez kötött | Időben, térben nem korlátozott
 Korlátozottan ismételhető | Korlátlanul ismételhető, pontosan felidézhető
 **Elsődleges szóbeliség:** az élő, beszélt nyelvhasználat, a **másodlagos szóbeliség:** valamely technikai eszköz közbeiktatásával folyó párbeszéd, Pl.: telefon, lemezjátszó, magnetofon, rádió, tv, számítógép alkalmazása. | Elsődleges írásbeliség: a papírra tollal, palatáblára palavesszővel írás, a másodlagos írásbeliség új nyelvi létmód: írógéppel, számítógéppel, mobiltelefonnal rögzített szöveg
-Pl.:: párbeszéd, felszólalás, telefonálás | Pl.:: levél, esszé, novella, vers felhívás, cikk
+Pl.: párbeszéd, felszólalás, telefonálás | Pl.: levél, esszé, novella, vers felhívás, cikk
 
 - A Gutenberg-galaxis (1962-ben McLuhan által elterjedt fogalom), mely utal arra, hogy a könyvnyomtatás indítja el a tömegkommunikáció (= a hírközlés) forradalmát, a hírlapok kiadását -> média forradalmához vezetett: a hang - és képrögzítéssel, a telefon, rádió, hangosfilm, tv -> információs forradalom a XX. sz. végén következett be: a számítógépek, az internet használatával
 - **Az informatika hatására alakult ki új beszéltnyelviség**
@@ -63,6 +63,7 @@ Pl.:: párbeszéd, felszólalás, telefonálás | Pl.:: levél, esszé, novella,
 - A nyelvi és nem nyelvi jelek (Pl.: hangsúly, mimika) harmóniában legyenek!
 	- Ezek hangsúlyozzák, kiegészítik, helyettesítik a közlő mondandóját
 - A kommunikációs felek figyeljenek egymásra!
+
 ### A kommunikáció funkciói:
 - Elsődleges:
 	- Tájékoztató funkció: ismeretek átadása a fő cél: "Ma eső várható."
@@ -72,6 +73,7 @@ Pl.:: párbeszéd, felszólalás, telefonálás | Pl.:: levél, esszé, novella,
 	- Kapcsolatteremtő, -tartó: Szia, hogy vagy? / Figyelsz? / Ugye?
 	- Esztétikai (poétikai) funkció: esztétikai hatás elérése: *"Nem tudhatom, másnak e tájék mit jelent..."*
 	- Metanyelvi: a használt jelrendszer jeleinek értelmezése: "Mit értesz a nagyon olcsó alatt?"
+
 ### **A kommunikáció fajtái:**
 - **A kommunikáció módja szerint:**
 	- **Közvetlen** (1 térben és időben van a 2 fél)
@@ -82,10 +84,75 @@ Pl.:: párbeszéd, felszólalás, telefonálás | Pl.:: levél, esszé, novella,
 - **A használt kód szerint:**
 	- **Nyelvi** kommunikáció
 	- **Nem nyelvi** kommunikáció
-- **A kommunikáló felek szerint:**  
+- **A kommunikáló felek szerint:** 
 	- **Én-kommunikáció** (Pl.: monológ)
 	- **Személyközi:** résztvevője két ember vagy csoport
 	- **Tömegkommunikáció:** technikai eszköz által ugyanaz az információ ugyanabban az időben rengeteg emberhez eljut
+
+<br />
+
+## 7. A nyelv társadalmi tagolása
+### A nyelváltozat
+- Egy meghatározott nyelvi közösség nyelvhasználati módja
+- Minden ember több nyelvi közösség tagja- több nyelvváltozatot hesznál, ismer. (ez függ az alkalomtól, szituációtól, a beszédpartnertől)
+- Egyéni nyelvhasználat (idiolektus) jellemző mindenkire
+- Familiáris nyelvhasználat jellemző egy családra
+
+### Nemzeti nyelv
+- Az összes nyelvhasználatot magába foglalja, a magyar nyelvet beszélők tudatában létezik
+
+Köznyelv (sztenderd) | Társadalmi tagolódás szerint: szociolektusok | Területi tagolódás szerint: nyelvjárások (dialektusok)
+--- | --- | ---
+Írott köznyelv (irodalmi) | Szleng | Nyugat-dunántúli régió
+Beszélt köznyelv | Szaknyelv | Közép-dunántúli-kisalföldi 
+Regionális köznyelv (vidéki városban beszélt) | Hobbinyelv | Dél-dunántúli régió
+ | Rétegnyelv | Dél-alföldi régió
+ | Tolvajnyelv (argó) | Palóc régió
+ | | Tisza-Körös-vidéki
+ | | Északkeleti
+ | | Mezőségi / Székely / Moldvai
+
+### Szociolektusok
+- Azonos életmód, foglalkozás, szórakozás kapcsolja össze, sajátos nyelvhasználatot hozott létre.
+- **Szaknyelv:** azonos szakterületen dolgozók, egy tudományág jellegzetes szóhasználata
+	- Terminus technikus = szakszókincs
+	- Szakzsargon = túlzásba vitt szakszóhasználat
+- **Hobbinyelv:** szabadidős tevékenység, sport sajátos szókészlete
+- **Rétegnyelv:** életkor, műveltség szerint elkülönülő szóhasználat
+	- Pl.: gyereknyelv, diáknyelv, nyugdíjasok nyelve)
+- **Szleng:** kevésbé igényes köznyelv, bizalmas társalgási stílus
+	- Jellemzi az újítás (főleg fiatalok használják)
+	- Egyéni jelleg, provokatív (normától való eltérés)
+- **Tolvajnyelv (argó):** titkosságra törekvő csoportnyelv, a csoporthoz tartozást erősíti
+	- Beszivárog a szlengbe és diáknyelvbe
+
+### Diáknyelv (ifjúsági nyelv)
+- Gyorsan változik
+- Sok új szóalak: neologizmus keletkezik és terjed el a köznyelvben is
+- Őszinte, szókimondó, gyakran ironikus, időnként nyers durva, trágár kifejezés is előfordulhat benne
+- Értéke: az eredetiség, szellemes újítások, ötletes szóalkotások, a nyelvi humor
+
+### Szleng
+- A legalacsonyabb igényességű nyelvi stílusban mutatkozik meg, de terjed a köznyelvbe is,
+- Szókészlete gyorsan változik, mely forrása az ifjúsági nyelv, az argó és kisebb-nagyobb közösségek
+	-Pl.: iskolai csoportok, sportegyesületek nyelvhasználata
+- A szleng létrejöttének központja általában Budapest
+- Az utóbbi időben nemcsak a családban, bizalmas körben, hanem az irodalomban, filmekben, televízióban és rádióban is megjelent,
+- Már nemcsak a fiatalok, hanem az idősebbek is használják (pl.: csaj, sumákol, dumál)
+- Célja a köznyelvi stílus variálása, élénkítése, a nyelvhasználat egyénítése
+
+### Argó (=tolvajnyelv)
+- Célja: egy csoporthoz való tartozás jelzése, bizonyos csoportok tevékenységének eltitkolása, a
+- Lelepleződés elkerülése
+- Bűnözői csoportok alakították ki saját nyelvváltozatként, hogy mások ne értsék meg (titkosság!)
+- Jellemzője a durva, trágár kifejezések használata
+- Az argó szavak kialakulása:
+	- Lehet ismeretlen eredetű
+	- Köznyelvi szavak eltorzítása
+	- Köznyelvi szavakat új jelentéssel ruháznak fel O
+- Az argóból kerülnek át szavak a szleng nyelvhasználatba
+- Bizonyos szavak hosszú idő alatt elfogadottakká váltak
+	- Így a köznyelvbe is bekerültek (pl.: buli, cucc, kaja)
 
 <br />
 
@@ -127,7 +194,7 @@ Pl.:: párbeszéd, felszólalás, telefonálás | Pl.:: levél, esszé, novella,
 			- n -> m: színpad, azonban
 			- n -> ny: angyal
 - **Összeolvadás:** a két szomszédos mássalhangzó helyett egy harmadikat ejtünk
-	- Pl.:: botja, vádja, kinja, látsz
+	- Pl.: botja, vádja, kinja, látsz
 - **Mássalhangzó-rövidülés:** egy hosszú és egy rövid mássalhangzó kerül egymás mellé, ekkor a hosszút röviden ejtjük
 	- Pl.: hallgat, jobbra, karddal
 - **Mássalhangzó-kiesés:** három különböző mássalhangzó kerül egymás mellé, ekkor az egyiket nem ejtjük. (A magyar nyelv nem szereti a mássalhangzó-torlódást)
@@ -138,14 +205,14 @@ Pl.:: párbeszéd, felszólalás, telefonálás | Pl.:: levél, esszé, novella,
 ### Magánhangzótörvények
 - **Hangrend:** nyelvünk ősi sajátossága, hogy a szavakban a magénhangzók szabályosan rendeződnek
 	- Magas/mély/vegyes hangrendűek lehetnek
-		- Pl.:: teniszütő, autó, béka
+		- Pl.: teniszütő, autó, béka
 	- Eredetileg nem voltak vegyes hangrendű szavaink. Ezek a nyelvfejlődés hatására alakultak ki: a mély i hang eltűnt, jövevényszavak kerültek a magyar nyelvbe
 - **Illeszkedés:** a hangrend törvényének kiterjesztése a toldalékokra
 	- **Magas** hangrendű szóhoz magas; **mély** hangrendűhöz mély; **vegyes** hangrendű szóhoz általában mély toldalék járul
 	- Ha az utolsó szótagban *ö*, *ü* áll, a toldalék magas
-		- Pl.:: kosztümben, sofőrrel
+		- Pl.: kosztümben, sofőrrel
 	- Ha az utolsó szótagban *e* áll, ingadozik a toldalék
-		- Pl.:: fotelben/-ban
+		- Pl.: fotelben/-ban
 	- Az összetett szavak toldalékát az utótag határozza meg
 		- Pl.: képtárban
 	- A toldalékok lehetnek hangrendjük szerint
@@ -153,7 +220,53 @@ Pl.:: párbeszéd, felszólalás, telefonálás | Pl.:: levél, esszé, novella,
 		- 2 alakúak: -ban/-ben, -ról/-ről: hangrend szerint illeszkednek
 		- 3 alakúak: -szor/-szer/-ször: hangrend szerint illeszkednek, de a magas hangrendűek ajakműködés szerint is
 - **Hiátustörvény:** ha két magánhangzó kerül egymás mellé, és közöttük úr keletkezik, annak megszüntetése érdekében -j hangot ejtünk
-	- Pl.:: dió (dijó)
+	- Pl.: dió (dijó)
+
+<br />
+
+## 10. A morfémák, szóelemek szerepe és helyes használata
+### Szóelem
+- A nyelv jelentéssel bíró legkisebb egysége
+- A szóelemek építik fel a szóalakot, gy szóalak állhat egy vagy több szóelemből
+- Szóelemek: szótő, képző, jel, rag
+
+### A morfémák
+- **2 fő csoportja:**
+	- **Tőmorfémák (szótövek):** hordozzák a szó jelentését, ez legtöbbször fogalmi jelentés (pl. erdőhöz), bizonyos esetben járulékos jelentés (pl. hav-as)
+		- **Egyalakú tő:** minden toldalékolt alakjában változatlan a formája
+		- **Többalakú tő:** egyes toldalékok hatására megváltozik a formája
+			- V-s változatú: ló / lovak, hó / havas
+			- Hangzóhiányos: bokor / bokrot
+			- Odőtartamot váltakoztató: kéz / kezet
+	- **Toldalékmorfémák (képző, jel, rag):**
+		- Feladatuk:
+			- a tőmorféma jelentésének megváltoztatása, módosítása,
+			- vagy mondatbeli viszony jelölése, és különböző nyelvtani viszonyok kifejezése.
+			- A toldalékmorfémák legtöbbször a tőmorféma után állnak: szuffixumok, pl. erdőben., a felsőfok és a túlzófok jele a tő előtt áll: prefixum, pl. legeslegnagyobb
+- **A toldalékok fajtái:**
+	- **Képző:**
+		- A szótő után áll
+		- Mindig új szót hoz létre
+		- Több is állhat egy szóalakban
+		- Feladata: a szó jelentését vagy szófaját változtatja meg
+	- **Jel:**
+		- A képző után áll, a rag előtt
+		- Több is járulhat egy szótőhöz
+		- Feladata: egy jelentésárnyalattal gazdagítja a szótő jelentését
+	- **Rag:**
+		- Zárómorfémák,
+		- Egy szóalakban csak egy állhat,
+		- Feladata: a szavak egymás közötti viszonyának, a mondatbeli helyének jelölése
+- **Alaki önállóság szerint a morfémák típusal**
+	- **Szabad morféma:** más morfémáktól függetlenül, önállóan is állhat, önálló jelentéssel rendelkezik
+		- Pl.: a szótári szótövek
+	- **Kötött morféma:** soha nem állhatnak önállóan, csak más morfémához kapcsolódva, jelentésük járulékos
+		- Pl.: a toldalékok és a nem szótári szótövek
+- **Szabályos szóalak:** szótő + képző + jel + rag
+- **Rendhagyó szóalak:** pl.: nagybani (szótő + rag + képző)
+- **Zéró morféma:** a hiánnyal jelöl pl.: lát (ige, jelen idő, E/3. személyben)
+	- A ragok és jelek rendszerébe tartozik
+- **Kötő- vagy előhangzó:** rövid magánhangzó, mely a toldalékok és a szótő között áll, segíti a könnyebb kiejtést
 
 <br />
 
@@ -324,3 +437,55 @@ alkothatja meg
 	- Igazán a teljesen kívülről mondott szöveg hatásos, igy tud a szónok jó kapcsolatot teremteni a közönséggel
 	- Előadáskor segíthet egy rövid, kulcsszavas vázlat
 	- Előadáskor ügyelni kell a szövegfonetikai eszközök (hangsúly, hanglejtés, beszédtempó, szünet) és a testbeszéd (gesztusok, mimika, testtartás stb.) megfelelő használatára
+
+<br />
+
+## 16. A közszereplés nyelvi és viselkedésbeli kritériumai
+
+### A retorika
+- 'Szónoklástan, ékesszólás'
+- Fogalomkörébe tartozik minden olyan élőszóbeli megnyilvánulás, amely közérdekű és kisebb-nagyobb nyilvánosság előtt zajlik
+- Már az ókorban meghatározták a szónok és szónoklat követelményeit
+
+### A jó szónok, tulajdonságai:
+- Részben velünk született, részben tanulható mindez)
+- **Tisztesség**
+	- Erkölcsi hitelesség
+- **Találékonyság**
+	- Megfelelő anyag megtalálása a szónoklathoz
+	- Megfelelő érvek, bizonyítékok felsorakoztatása
+	- Alkalmazkodás a megváltozott beszédhelyzethez, a hallgatók hangulatához, véleményéhez, ismereteihez.
+- **Szerkesztőkészség**
+	- Megfelelően, logikusan tudja elrendezni gondolatait, az összegyűjtött anyagot
+	- Az érvelő szöveg szerkezete: bevezetés (fontos benne a jóindulat megnyerése, a téma megjelölése, a figyelem felkeltése!) - elbeszélés - részletezés - bizonyítás (pl. érvfajták!) - cáfolás - befejezés (összegzés, kitekintés, érzelmi zárás)
+- **Stílusérzék**
+	- Megfelelő stílus és hangnem megtalálása a témának, a hallgatóságnak és a beszédhelyzetnek megfelelően
+- **Emlékezőtehetség**
+	- A szöveg, vagy csak a tételmondat és példák, érvek rögzítése
+- **Jó előadókészség**
+	- Hatásosan tudja megszólaltatni az eltervezett szöveget
+
+### A szónoklat nyelvi eszközei
+- Érvfajták (17.tétel)
+- Stíluseszközök
+	- Metafora, hasonlat
+	- Ismétlés, felsorolás, halmozás, fokozás ellentét, párhuzam
+	- Megszólítás (fontos a kapcsolattartás a hallgatósággal)
+	- Felkiáltás (hatásfokozó, figyelemfelkeltő)
+	- Szónoki kérdés (felhívja a figyelmet, fokozza a feszültséget)
+		- Ez kedvelt hatásfokozó eszköze a fennkölt stílusú beszédnek
+- Ne legyenek nyelvhelyességi hibák
+- A megfelelő nyelvi réteg megválasztása
+	- Ezzel összefügg a szöveg stílusa: **egyszerű / közepes / fennkölt stílusnem**
+	- Ez utóbbiban sok a stíluseszköz, a körmondat!
+	- Erős az érzelmi telítettsége a szövegnek
+	- A szónoki beszéd fajtájának megfelelő kell legyen a nyelvezet és stílus
+		- **Tanácsadó** (politikai) / **törvényszéki** jogi) / **alkalmi** (ünnepi) beszéd
+
+### A szónok nem nyelvi kifejezőeszközei
+- A beszéd zenei eszközei (hatnak a közönség érzelmeire, erősítik a mondanivalót)
+	- Hangsúly, hangerő, hanglejtés, hangszín, beszédszünet, beszédtempó
+- A szónok megjelenése fontos eleme annak, hogyan fogadják a hallgatók a mondandóját
+	- Testtartás, mimika (arcjáték), gesztusok, tekintettartás, a hallgatók és szónok közöti távolság (térközszabályozás)
+	- Ápolt külső
+	- Az alkalomnak megfelelő ruházat
