@@ -27,13 +27,12 @@ function HomepageHeader() {
 function HomescreenIndex() {
   return (
     <div className={clsx(styles.index)}>
-      <h1>Tartalomjegyzék</h1>
-      <hr />
       <h2>Tételek</h2>
       <ul>
         <li><a href="docs/tetelek/angol">Angol</a></li>
         <li><a href="docs/tetelek/irodalom">Irodalom</a></li>
         <li><a href="docs/tetelek/nyelvtan">Nyelvtan</a></li>
+        <li><a href="docs/tetelek/tortenelem">Történelem</a></li>
       </ul>
       <h2>Vázlatok</h2>
       <h3>Irodalom</h3>

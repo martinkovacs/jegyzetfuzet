@@ -5,6 +5,7 @@
  - [Angol](tetelek/angol)
  - [Irodalom](tetelek/irodalom)
  - [Nyelvtan](tetelek/nyelvtan)
+ - [Történelem](tetelek/tortenelem)
 
 <br />
 
