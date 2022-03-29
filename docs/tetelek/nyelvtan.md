@@ -489,3 +489,136 @@ alkothatja meg
 	- Testtartás, mimika (arcjáték), gesztusok, tekintettartás, a hallgatók és szónok közöti távolság (térközszabályozás)
 	- Ápolt külső
 	- Az alkalomnak megfelelő ruházat
+
+<br />
+
+## 17. Egyszerűbb szóképek a köznyelvi és szépirodalmi szövegekben
+### A szókép (trópus = görög "fordulat")
+- Úgy keletkezik, hogy két jelenséget összekapcsolunk, illetve összehasonítunk -> igy egyiket a másikkal szemléletessé, érzékelhetővé tesszük
+- Érzelmi, hangulati hatása van a képeknek
+- **Szókép = azonosító (kép) + azonosított (fogalom) + tulajdonság (az azonosítás ezen alapul)**
+    - Pl.: tűz - szerelem
+
+### Metafora típusú képek (a hasonlóságon alapulnak)
+- Metafora:
+    - Névátvitel tartalmi hasonlóság (pl.: külső-belső, funkcióbeli) vagy hangulati egyezés alapján
+    - Típusai:
+        - **Teljes metafora** = a fogalmi és képi sík is jelen van
+	        - Pl.: "vasvilág a rend"
+        - **Csonka = egytagú metafora:** csak a képi sík van jelen
+	        - Pl.: "amott ül egy túzok" (= Toldi)
+        - **Igei metafora**
+	        - Pl.: "száll az idő"
+        - **Főnévi metafora**
+	        - Pl.: "Kezed elalvó nyírfaág"
+        - **Melléknévi metafora** 
+	        - Pl.: "fekete ország"
+    - Köznyelvi szövegben előforduló metaforák: szőlőszem, galamblelkű, csípős nyelvű, bogaram, a kancsó füle, hegygerinc, politikai ring stb.
+- **Szinesztézia**
+    - Görög "együttérzés" -> különböző érzéki benyomásokat kapcsol össze egy képben
+    - Pl.: "hull a sötét", "sűrű csönd", " lila dalra kelt egy nyakkendő" és köznyelvi szövegben: pl. édes anyanyelv, nehéz szag
+- **Megszemélyesítés**
+    - Tárgyakhoz, fogalmakhoz, természeti jelenségekhez ember cselekvést vagy tulajdonságot kapcsol -> megelevenít
+    - Pl.: "súg a végtelenség", "mosolygó pillantások", és köznyelvi: "fúj a szél"
+- **Allegória**
+    - Görög "képletes beszéd",
+    - Egy verse vagy versszakon végigvonuló metafora vagy megszemélyesítés
+	- A képsor minden mozzanatának megfeleltethető a jelentés egy-egy eleme:
+		- "Föltámadott a tenger, a népek tengere..." (Petőfi)
+		- "**A költő is ilyen, e légi herceg párja,**
+			Kinek tréfa a nyíl s a vihar dühe szép,
+			De itt lenn bús rab ő, csak vad hahota várja
+			S megbotlik óriás két szárnyán, hogyha lép." (Baudelaire: Az albatrosz)
+		- "**Szomoru csillag, életátkom képe,**
+			Sugár ecset, mely festi végzetem,
+			Akárhová mégysz a mérhetlen égbe,
+            Te mindenütt egyetlen, idegen!" (Vajda János: Az üstökös)
+    - Több elemből áll a fogalmi és a képi sík is
+        - Összetett költői kép
+- **Szimbólum**
+    - Görög "ismertetőjel, bélyeg, jegy"
+    - Egymástól távoli dolgokat kapcsol össze; valamely gondolat, eszme, érzelem jelképe
+	- Csak sejteti a jelentést; a kép önálló életet kezd élni, pl.:
+	    - Lánc = rabság
+	    - Olajág = béke
+	    - Gyűrű = házastársi hűség
+	    - "A magyar Ugar" = elmaradott Magyarország
+- **Hasonlat**
+    - A legújabb nyelvtankönyvekben alakzatnak tartják,
+    - Közös tulajdonság alapján kapcsol össze 2 dolgot
+    - Szerkezetileg teljes: fogalom-kép-közös jegy is megtalálható benne
+    - Jellemzi a mint, akár kötőszó pl.: "Mint héj az almát, borít a magány." (Szabó Lőrinc)
+
+### Metonímia
+- Névcserén alapuló szókép
+- Ha 2 fogalom között ok-okozati kapcsolat vagy térbeli, időbeli, rész-egész érintkezés van, akkor az egyik nevet felcseréljük a másikkal, azt a másik értelmében használjuk
+- **Térbeli érintkezés:** „Nem hozok a házra veszedelmet"
+    - Ház = benne élő emberek
+    - Pl.: köznyelvi: asztalt bont, szájára vette a falu
+- **Időbeli érintkezés:** "Visszajő... búzaaratáskor"
+    - Búzaaratás = nyár
+    - Pl.: boldog békeévek
+- **Anyagnév cserélődik fel:** "Leesett a vas a lovam lábáról"
+    - Vas = patkó
+    - Pl.: vasra verték a rabot
+- **Ha az okot az okozattal fejezzük ki (cseréljük fel) = metalepszis:** "arca verejtékével keresi a kenyerét"
+    - Verejték = kemény munka
+- **Ha a rész egész felcserélésén alapul a metonímia = szinekdoché**: egy lélek sem jár erre
+    - Lélek = ember (része)
+    - + egyes számú szó áll többes szám helyett
+    - + nemfogalom - fajfogalom felcserélése
+        - Pl.: "Holott kikeletkor az sok szép *madár* szól"
+        - Madár = rigó
+
+### Komplex kép (= összetett kép)
+- Ha a szóképek egymásba kapcsolódnak, összefonódnak a szövegben
+    - Pl.: József Attila verseiben
+
+<br />
+
+## 20. Hangalak és jelentés (egyjelentésű, többjelentésű, homonima, szinonima és hasonló alakú szavak)
+- A jelentés a nyelvi jel használati értéke, lehetséges beszédbeli szerepe
+- Minden szónak van hangalakja és jelentése.
+- Előfordulhat, hogy egy hangalakhoz csak egy jelentés járul, de az is, hogy több
+- Tehát ugyanazzal a hangalakkal több dolgot is megnevezhetünk, és a mondatban, szövegkörnyezetben válik egyértelművé, hogy mire gondolunk
+- A hangalak és jelentés viszonya az alábbi módon osztályozhatjuk a szavakat
+    - Ez hagyományon, megszokáson alapul
+
+### Egyjelentésű szó:
+- Egy hangsor csak egy jelentést idéz fel
+- Kevés ilyen szavunk van
+    - Pl. szakszavak, bonyolult összetett szavak, néhány toldalék
+
+### Azonos alakú szavak = homonimák
+![](https://mermaid.ink/img/pako:eNp1z7EKwjAQBuBXCTe10A7qlkFQK4ira5ajOdvQJilpMkjpA_kcvphXUOigd8s_fAf_TVB7TSChCTi0ygmeQ3ZB12CPXS7Kci-O2ZV6cvH1HMUm_21OK7P9Y6qV2bFZFgqwFCwazR2m5U5BbMmSAslRY-gUKDezS4PGSGdtog8g79iPVACm6G8PV4OMIdEXVQb5H_tR8xs8TUqI)
+- Két szónak a hangalakja azonos, de a jelentésük más, és a jelentések között nincs összefüggés
+- Pl.: vár, terem, ég, ár
+- Toldalékok közül pl. a "-t" lehet tárgyrag vagy a múlt idő jele
+- Viccek, találós kérdések nyelvi humora sokszor fakad kétfél jelentésből: "Miért nyúl a nyúl?"
+
+### Többjelentésű szavak
+![](https://mermaid.ink/img/pako:eNp1z70OgjAQB_BXaW6CBAZ162AiH4lxde1yoSc00EJKOxjCA_kcvphFMWHQu-X-ud9wN0HVSwIOtcWhEYaFOkVnNDV22MYsTY8siy7UkXHPx8h28W-Tb8z-jyk25rCaLGxSln9C_g6FMEtDApqsRiXDddMCBLiGNAngYZRoWwHCzMH5QaKjUirXW-A37EZKAL3rr3dTAXfW0xcVCsOnelXzC4IvT7Y)
+- Olyan szavak, amelyeknek egy hangsora van, de ehhez több összefüggő, egymásból levezethető jelentés kapcsolódik
+- A nyelv történeti változása során alakult ki
+    - Jelentésbővülés történt
+- Van egy eredeti első jelentésük, később alakul ki a szó 2., 3., stb. jelentése
+- Pl.: levél, keres, óra
+
+### Hasonló alakú szópárok
+- Olyan szavak, amelyek csak hasonlítanak egymásra, ezért sokszor összekeverik őket
+    - Közös Tőből, más-más képzővel kapcsolódnak össze
+- Helyiség - helység (település)
+- Egyelőre (pillanatnyilag) - egyenlőre (egyenlő alakúra)
+- Fáradság (fáradozás) - fáradtság (fáradt állapot)
+- Gondtalan (gond nélküli) - gondatlan (felelőtlen)
+- Szível (szeret) - szívlel (megfogad)
+
+### Rokon értelmű szavak - szinonimák
+- Hangalakja különböző, jelentésük azonban nagyon hasonló
+- **Azonos értelmű szavak:** a valóság ugyanarra a mozzanatára vonatkoznak, de nem cserélhetők fel
+    - Pl.: kukorica - tengeri - törökbúza, autó - gépkocsi, kerékpár - bicikli, hajnal - kikelet
+- Értelmi szinonimák: van közöttük valamilyen fokozati, szemléletbeli, hangulati különbség
+    - Pl.: fut - rohan - szalad, énekel - kornyikál, azonnal - mielőbb - postafordultával - mihamarabb
+- A mondatformájú szólások között is van rokon értelmű
+    - Pl.: Dunába hord vizet, Hegre visz földet
+- A rokon értelmű szavak tára a Magyar szinonimaszótár
