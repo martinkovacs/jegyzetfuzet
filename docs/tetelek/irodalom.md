@@ -6,7 +6,7 @@
 3. [ ] Ady Endre új versek című kötete
 4. [ ] Kosztolányi Dezső: Édes Anna
 5. [ ] Babits Mihály
-6. [ ] József Attila kései versei
+6. [x] József Attila kései versei
 7. [x] Vörösmarty Mihály Világos utáni lírája
 8. [ ] Örkény István: Tóték - az abszurd dráma
 9. [x] Mikszáth Kálmán: A jó palócok
@@ -20,7 +20,7 @@
 17. [ ] Madách: Az ember tragédiája
 18. [x] Shakespeare: Rómeó és Júlia
 19. [ ] Móricz Zsigmond: Rokonok
-20. [ ] Radnóti Miklós: Tajtékos ég című kötet
+20. [x] Radnóti Miklós: Tajtékos ég című kötet
 
 <br />
 
@@ -172,6 +172,158 @@
 
 <br />
 
+## 6. József Attila kései számadás versei (1935-37)
+- Reménytelennek látja az egyéni és közösségi helyzetét
+	- Betegsége miatt (skizofrénia)
+	- Szanatóriumban kezelik
+	- Eleinte próbál optimistán a jövőbe nézni
+- Ahogyan erősödik a betegsége, úgy az önelemzés szerepe nő a verseiben
+- Elemzi a személyiségét
+	- Úgy érzi nincs lehetősége méltó életre, már a költészet sem jelenthez vígaszt
+- Életét elhibázottnak látja, ezért elkerülhetetlen a halál
+	- Ezért valószínűsíthető az öngyilkossága
+	- Nincs kiutat jelentő szerep vagy magatartás az életében
+		- Pl.: apa, szerető
+	- Minden értelmetlennek, céltalannak lát
+	- Önmegszólító versek
+		- Pl.: Tudod, hogy nincs bocsánat
+		- Lét összegzés, számvetés
+	- Fontos motívum: bűn <-> büntetlenség, kisgyermek-motívum
+
+### Tudod, hogy nincs bocsánat
+- 1937 szeptember
+- Bűnei:
+	- Naiv, hiszékeny
+	- Hamis tanú
+	- Megcsalás
+	- Rossz gyerek volt
+		- Számára ezek hatalmas vétkek, megbocsájthatatlan
+			- "Töltött fegyvert / szorítsd üresen szívedhez"
+				- Öngyilkosság
+			- "Remélj hű szerelmet"
+				- Szerelem
+			- Ez a két lehetősége van
+	- "Légy ami lennél, férfi"
+		- Bátor, határozott, erős
+- Elhibázta életét: sosem kapott pozitív visszajelzést (7.vsz.)
+- A bűntudat a betegség következménye
+- Szeretethiányos: "Soha senki nem mondta, hogy te jó vagy"
+- Feleslegesnek érzi magát: "Maradj fölöslegesnek"
+
+### Karóval jöttél...
+- Az utolsó három versnek nem adott címet
+	- Az első sor lett utólag kiemelve
+	- Utókor adta az utolsó három vers címét, ezért vannak zárójelben a címek
+- Ez az utolsó három teljes verse
+- Életét értékeli, hibáztatja magát
+- E/2: önmegszólító
+- "Karóval jöttél, nem virággal" 
+	- Virág: szép <-> karó: durva
+	- Értéktelennek érzi magát
+	- Durvaságot, értéktelenséget köt az életéhez
+	- Születése nem boldogságot hozott, hanem nyűg volt a szüleinek
+	- Értékes - értéktelen ellentéte
+	- Csalódás a családjának
+- "Aranyat ígértél nagy zsákkal"
+	- Nem tudta teljesíteni a vágyait
+	- Nem valósította meg a belé vetett hitet
+- "Bolondgomba", "Hét Torony"
+	- "Hét Torony": Egri csillagokból, Konstantinápolyi börtön
+	- Élete olyan mint a börtön
+	- Teljesen reménytelen a jövő
+- A vers önmegszólító:
+	- Felnőtt szólítja meg a gyerekkori énjét
+	- Ez az alapszituáció
+	- Számonkéri rajta a hibáit, bűneit
+	- "Tejfoggal kőbe miért haraptál?"
+		- Erejéhez képest túl nehéz dolgokat vállalt
+	- "Sebedet mindig elvakartad"
+		- Nem engedi a sebek begyógyulását
+	- "Miért nem éjszaka álmodtál?"
+		- Tettek helyett álmodott
+		- Nem valósította meg a vágyait
+	- "Híres vagy, hogyha ezt akartad"
+		- Híres, de nem elégedett vele
+		- Nem pótolja az elhibázott életét
+		- "Te bolond"
+			- Bolondmotívum
+			- Elítéli magát, betegségére is utal picit
+	- "Szerettél? Magához ki fűzött?"
+		- Hiányzott a szeretet
+		- Nem volt igazán mély, szeretetteljes kapcsolata
+	- "Se késed nincs, se kenyered"
+		- Szegényen él
+		- Elrontotta életét
+- Sok kérdőmondat
+	- Hangsúlyozza a számonkérést
+	- Párbeszédszerű
+- Zárás:
+	- "Be vagy a Hét toronyba zárva"
+		- Visszatér a "Hét Torony" motívum
+		- Szórendcserével nyomatékosít
+		- Nincsenek kötőszavak: sűrítés, tömörítés, feszültségkelés
+	- "Jut tüzelőfára", "puha párna"
+		- Az alapszükségletei megvannak
+		- Elfogadja beletörődik sorsába
+		- Belenyugvással zárul
+
+### Talán eltünök hirtelen...
+- E/1-ben szólal mag
+- Őszinte vallomás az életéből
+- "Talán eltünök hirtelen, / akár az erdőben a vadnyom"
+	- Metafora
+	- Ha meghal, nem hagy maga után nyomot
+	- Nem lesz ki emlékezzen rá
+	- Elpazarolta az életét
+- Gyermekkorától kezdve feleleveníti gyermekkorát
+- 1. vsz = jövő - múlt
+- Több idősík -> Múlt
+- Nehéz élet: "szem-maró füstön..."
+- Túl korán kezdett bele dolgokba: "Korán vájta belém fogát..."
+- Ifjúkor, dac, lázadás
+	- Hibaként látja életében
+- Utal az árvaságára
+	- "Bánat szedi szét eszemet"
+	- "Most rezge megbánás fog át"
+		- Szomorú, hogy így elrontotta ifjú korát
+- "Ifjúságom, e zöld vadon"
+	- Metafora
+	- Múlt: szabadnak, örökké valónak fogta fel az életet
+	- Múlt: "bimbós gyerek" (tavasz) <-> jelen: "száraz ágak" (tél, rossz)
+- Minden életszakaszára keserűen gondol
+- Értékhiányos jelen
+	- A jövő is reménytelen
+- Idő-és értékszembesítő
+- Létösszegző vers
+
+### Ime, hát megleltem hazámat
+- Haza = halál / sír
+- Búcsúzás a vers
+- Mintha már meghalt volna, megbékélt
+- "Húszfilléres, vashatos"
+	- Élete értéktelen
+	- Föld, mint persely befogadja
+- "Egyedül voltam én sokáig"
+	- Vágyott volna a társaságra
+- Élete hiábavaló volt
+- Halála is hasztalan
+- Nemcsak magát vádolja az elhibázott életéért, hanem másokat is
+	- Új motívum
+	- "Nem vétettem / többet, mint vétettek nékem"
+- "Forgószélben próbáltam állni"
+	- Metafora: az élet nehézségei
+	- Paradoxon
+	- A kaotikus helyzetekben is próbált helyt állni
+- Záró versszak:
+	- Évszakok: visszatérő motívum
+	- Teljesen lemondó a jövőjét tekintve
+		- Ő már nem reménykedhet családban
+		- Ősz és tél évszak versszak támasztja alá
+	- Én <-> mások ellentét
+	- "Szép": Szép szó c. folyóiratra utal
+
+<br />
+
 ## 7. Vörösmarty Mihály Világos utáni lírája
 
 - **Vörösmarty a reformkor irodalmának meghatározó alakja (költő, irodalomszervező)**
@@ -293,8 +445,7 @@
 	- Belülről nézi és ábrázolja hőseit
 	- Erkölcsi tisztaságban az egyszerű emberek többnyire a társadalmilag magasabb szinten állók (a gazdagok) fölé emelkednek
 - Sajátos, anekdotázó, élőbeszédszerű az elbeszélő hangja -népi mesemondóhoz hasonlít
-- Közvetlen a szabad függő beszéd segítségével belelátunk a szereplők gondolataiba,
-érzelmeibe
+- Közvetlen a szabad függő beszéd segítségével belelátunk a szereplők gondolataiba, érzelmeibe
 - A népi babonákat, hiedelmeket bemutatja
 - A természet fontos szerepet kap a novellákban: 
 	- beleavatkozik az emberek sorsába
@@ -302,23 +453,19 @@
 
 ### A jó palócok kötet
 - 15 rövid elbeszélésből áll
-- **Novellafüzér** (novellaciklus), melynek novelláit visszatérő személyek, települések
-kapcsolják össze (pl. Vér Klára, Timár Zsófi, Bede Erzsi, Gélyi János, Filcsik, Csuri Jóska) - Szereplői kedves, közvetlen parasztemberek,
+- **Novellafüzér** (novellaciklus), melynek novelláit visszatérő személyek, települések kapcsolják össze (pl. Vér Klára, Timár Zsófi, Bede Erzsi, Gélyi János, Filcsik, Csuri Jóska) - Szereplői kedves, közvetlen parasztemberek,
 - Akik egy faluközösség tagjai (pl. Csoltó, Bodok, Gózon, Majornok....) Görbeország"
 	- A helyszínek egy része valós, de a falvak többsége fiktív (a szülőfalut, Szklabonyát idézi pl. Bodok)
-- A kötet novellái nem követik az időrendet, kevés a konkrét időpontra utalás, leginkább
-csak az évszak
-- **az elbeszélő**
+- A kötet novellái nem követik az időrendet, kevés a konkrét időpontra utalás, leginkább csak az évszak
+- **Az elbeszélő**
 	- A faluközösség egy tagjaként mesél, közvetlen viszonyban van az ábrázolt világgal, a **nézőpontja folyamatosan** változik, a szabad függő beszédet alkalmazza
 	- **A kihagyásos cselekményelbeszélés** miatt sűrített cselekmény, csak sejtet bizonyos elemeket-ez balladaszerűvé teszi
 	- az elbeszélő nyelvezetére jellemző a **metaforikus szóhasználat** is
 	- Mindezek miatt aktív befogadói magatartást kíván az olvasótól
 - A közösség számára fontosak az **ősi erkölcsi törvények, a hiedelmek, babonák**
-- **Valamilyen erkölcsi törvény megsértése** adja a novellák alapproblémáját (pl.
-házasságtörés, fösvénység, szívtelen apai viselkedés, lopás, képmutató vallásosság)
+- **Valamilyen erkölcsi törvény megsértése** adja a novellák alapproblémáját (pl. házasságtörés, fösvénység, szívtelen apai viselkedés, lopás, képmutató vallásosság)
 - **A visszatérő motívumok**: bűnbeesés, szerelem, erotika, külön csoportot alkotnak az elcsábított, bűnbe esett lányokról szóló történetek: Péri Judit, Gál Magda, Filcsik Terka
-- Az idill, harmónia világa a falu (minden erkölcsi vétségre fény derül, a bűnös elnyeri
-büntetését)
+- Az idill, harmónia világa a falu (minden erkölcsi vétségre fény derül, a bűnös elnyeri büntetését)
 - Legfőbb érték az egyén boldogsága és a világrend
 - A természet és ember összhangját tükrözik a történetek
 
@@ -342,8 +489,7 @@ büntetését)
 - **A művön végigvonul a rózsamotívum**: ez megjelent a feleség titkos beszélgetésében, meglátja utazáskor a nőnél GJ, eltűnt a kenderáztatóknál a fehér mályva: tehát a megcsalás kapcsolódik hozzá.
 - **Gélyi János lelkiállapot-változását is nyomon követhetjük a novellában- ő a főszereplő**
 	- Alaphelyzet: **nagyon boldog, büszke, elégedett**: szép, különleges lovai (él-hal értük", 9 vármegyében híresek), csókolgatta őket, féltő szeretettel gondoskodik róluk) és felesége van, végre együtt jelenhet meg feleségével egy lakodalomban)
-	- A suttogás meghallása után **kétségel** merülnek fel
-	(a szövegben apró utalások vannak arra, **hogy feleségének rossz hire van a faluban**, sőt korábbi noveltuuk, hogy első férjet is megcsalta: az a bizonyos szerető... hamis szemeinek ernyőt csinált", "még a rossz nyelvek nem teltek be velem", Hallotta 6 már ezt a szelíd hangot ilyennek")
+	- A suttogás meghallása után **kétségel** merülnek fel (a szövegben apró utalások vannak arra, **hogy feleségének rossz hire van a faluban**, sőt korábbi noveltuuk, hogy első férjet is megcsalta: az a bizonyos szerető... hamis szemeinek ernyőt csinált", "még a rossz nyelvek nem teltek be velem", Hallotta 6 már ezt a szelíd hangot ilyennek")
 	- Indulás előtt: "**nyugodtan** vezette ki lovait", "**féltréfásan**" kérdi feleségét -sejt valamit, de próbálja **leplezni**, humorral
 	- Majd amikor megpillantja feleségénél a mályvarózsákat, elgondolkodik: "megmondta.... így mondta" az öregasszonynak korábban, **egyre feszültebb**
 		- Utazás során egyre **nő ez a feszültség**, Gélyi nem felel felesége kérdéseire, "a vidéket bámulta"
@@ -363,7 +509,7 @@ büntetését)
 		- Ciklusokba rendezte verseit: 3X33 műből állt volna:
 		- Szentháromság-himnusz a bevezetés (feltételezik…)
 		- **1. rész:** házassága előtt írt versek - (Anna -versek)
-			- záró darab: Kiben bűne bocsánatáért könyörgett akkor hogy házasodni szándékozott
+			- Záró darab: Kiben bűne bocsánatáért könyörgett akkor hogy házasodni szándékozott
 		- **2. rész:** házassága után írt versek - Júlia-versek, záró darab: Ó, én édes hazám…kezdetű mű
 		- **3. rész:** 33 istenes versek
 - **Szép magyar komédia** című pásztordrámája az egyik első magyar színdarab,
@@ -594,8 +740,7 @@ büntetését)
 ### Moliere jelentősége
 - a francia klasszicista dráma jelentős képviselője (Racine és Corneille mellett)
 - XIV. Lajos király udvari szerzője, kegyeltje
-- vígjátékaiban az emberi hibákat bírálja, teszi nevetségessé - szórakoztató formában:
-Erre utalnak a művek címei is: A fösvény, Mizantróp (Embergyűlölő), Úrhatnám polgár, Képzelt beteg, Tudós nők, Kényeskedők., és a Tartuffe, melynek témája: az álszent, képmutató vallásos magatartás bírálata.
+- vígjátékaiban az emberi hibákat bírálja, teszi nevetségessé - szórakoztató formában: erre utalnak a művek címei is: A fösvény, Mizantróp (Embergyűlölő), Úrhatnám polgár, Képzelt beteg, Tudós nők, Kényeskedők., és a Tartuffe, melynek témája: az álszent, képmutató vallásos magatartás bírálata.
 
 ### A mű keletkezése
 - 1664, de a bemutatója nagy botrányt kavart az egyház köreiben
@@ -702,7 +847,7 @@ Erre utalnak a művek címei is: A fösvény, Mizantróp (Embergyűlölő), Úrh
 
 <br />
 
-## Puskin: Jevgenyij Anyegin
+## 15. Puskin: Jevgenyij Anyegin
 ### Az orosz romantika
 - Késve jelent meg, az 1820-a években.
 - Oka: a társadalmi elmaradottság, a cári önkény, a feudalizmus.
@@ -839,3 +984,111 @@ Paris, Capulet, Tybalt, Dajka, Lőrinc barát | R., J., Mercutio, Dajka, Lőrinc
 - Blank verse versforma = ötös vagy hatodfeles jambusi sorok
 	- Iődmértékel
 - Fontos érték a szerelem
+
+<br />
+
+## 20. Radnóti Miklós: Tajtékos ég című kötet
+### Élete
+- 1909-1944
+- Zsidó családból származik
+- Eredeti neve: Glatter Miklós
+	- Egyetem végén Radnóti
+- 28 év című vers (1937); Ikrek hava (prózai)
+	- Gyermekkora
+	- Gyerekként szembesült azzal, hogy meghalt az édesanyja
+- Textilkereskedőnél tanul
+- Középiskolás -> Gyarmati Fanni
+- Szegedi Egyetem: magyar-francia szak (1930-1935)
+	- Megismerkedik Sík Sándorral
+		- Ő kereszteli meg
+	- Ledoktorál -> de nem taníthat a származása miatt
+- Szegedi Fiatalok Művészeti Kollégium
+- Első kötete: Pogány Köszöntő (1930)
+- 1935-ben házasság
+- 1937 Baumgarten-díj
+- 1940, 1942, 1943 -> munkaszolgálat
+- 1944 május
+	- Szerbia: Bor (Lager Heidenau)
+		- Bori notesz
+- Szeptember: Erőltetett menet
+- November 4.: Pannonhalma
+- Abda határánál lelövik
+- Fanni 1944-1946-ig várja haza
+- 1946: Tajtékos ég verses kötet
+
+### Tajtékos ég kötet
+- 1946: Posztumusz kötet
+	- Ebbe vannak a bori notesz versei (10-12 db van)
+- Több év termését tartalmazza
+
+### Hitvesi líra
+- Feleségéhez írt szerelmes versek
+- Együgyű dal a feleségről (1940)
+	- Minden megelevenedik a hatására
+	- "Elűzi tőlem a halált"
+- Hasonlatok (1941)
+- Virág
+	- Képvers
+
+#### Levél a hitveshez (1944)
+- Bori noteszben szerepel
+	- Szörnyű körülmények között a Lager Heidenauban
+- Irodalmi levél
+- Episztola
+- Háború miatt távol egymástól: bombák, bombázórajok, fogoly vagyok, "vad férfiak"
+- Felesége számára
+	- Hagyja, alakja -> mindig rágondol
+	- "Kihez némán vakon is eltalálnék -> nagyon erősen él benne"
+	- "Valóság lettél - álom újra"
+	- "Hitvesen és barátom"
+	- Minden körülmények között haza akar térni hozzá
+	- "Biztos voltál súlyos, mint a zsoltár"
+		- Az életének a legbiztosabb pontja
+- Zárás: "a 2x2 józansága hull rám"
+	- Bizonytalan, hogy sikerül-e
+
+#### Tétova Óda (1943)
+- Tétova: A költő keresi a legszebb kifejezéseket, hogy megfogalmazza, hogy mit érez Fanni iránt
+- Cím: műfajmegjelölő -> dicsőíti a szerelmet, isteníti a feleségét
+- 1-6. sor: a szerelem
+	- Rejtett csillagrendszer - metafora (kiismerhetetlen)
+	- "Megkövesült a csigaház" - hasonlat (örök)
+	- "Nyüzsgő és áradó" - teljesen áthatja
+- Elégedetlen ezekkel a képekkel:
+	- "S még mindig nem tudom elmondani neked"
+- Összetartozásukat fejezi ki
+	- Fáradt együttlét
+	- Elalszanak -> "nem vagy más világ"
+- Csodálja kedvesét
+	- "Tárgyak dicsérik"
+	- "Boldog, mert veled él"
+	- "Kezed" = "elalvó nyírfaág"
+		- Főnévi metafora
+		- Megszemélyesítés
+	- "Annyit érek én, amennyit a szó"
+		- Írásai alapján lehet megítélni -> törekszik arra, hogy legszebben írjon, amíg csak él
+		- Ezt erkölcsi kötelességének tartja
+	- "S talán lesz még időm"
+		- Bizonytalan, hogy meddig élhet
+
+### Radnóti Eklogái
+- 1930: Vergilius 2000 éves évfordulója
+- 1938: Pásztori magyar Vergilius
+	- A költő minden eklogáját lefordítják magyarra -> a 9. eklogát Radnóti
+	- Radnóti Miklós saját korában is aktuálisnak érzi a eklogákat:
+		- (Polgár) háborús időszakban a békevágyat szólaltatják meg
+		- 10 darabot tervezett -> 8 készült el a halála miatt
+			- A 6. ekloga valószínűleg a Töredék című vers
+		- Száll a tavasz című vers = előhang az eklogákba
+		-  A Tajtékos ég kötetbe került a 2-8. ekloga + Száll a tavasz
+
+#### Hetedik ecloga
+- Megszólítottja: Fanni
+- Koncentrációs tábor körülményeit mutatja be
+- Erősen kötődik Fannihoz
+- Műfajmegjelölő cím
+- Episztolaszerű mű
+- Nem párbeszédes, mint az ekloga műfaj
+	- De "Látod-e" kezdet jelzi (2x): van megszólítottja
+		- A záró sor egy szerelmi vallomás
+	- Bemutatja milyen körülmények között élnek a foglyok
