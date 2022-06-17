@@ -5,7 +5,7 @@
 2. [ ] Arany János balladái
 3. [ ] Ady Endre új versek című kötete
 4. [ ] Kosztolányi Dezső: Édes Anna
-5. [ ] Babits Mihály
+5. [x] Babits Mihály
 6. [x] József Attila kései versei
 7. [x] Vörösmarty Mihály Világos utáni lírája
 8. [ ] Örkény István: Tóték - az abszurd dráma
@@ -25,7 +25,6 @@
 <br />
 
 ## 1. Petőfi Sándor
-
 ### A szabadság és szerelem költője
 - Petőfi a magyar reformkor meghatározó egyénisége, a legismertebb, legtöbb nyelvre lefordított költőnk.
 - Megújította a költészetet:
@@ -169,6 +168,151 @@
 		- Óda: **ünnepélyes hangú dicsőítő költemény**
 		- Rapszódia: **hangulat váltakozása, versszak végi kérdés (bizonytalanság)**
 	- Költő zaklatottságát tükrözik a **szabálytalan hosszúságú sorok**
+
+<br />
+
+## 5. Babits Mihály
+### Jelentősége
+- 20. század elejének meghatározó alkotója
+- A Nyugati 1. nemzedékének jelentős alakja, főszereplője (1929-1941)
+- Irodalom szervező (pl.: tehetségek felfedezése, irodalmi szalon)
+- Kora legműveltebb alkotója
+	- Latin, görög, angol, német, francia, olasz
+- Költő
+- Író
+	- Regényei:
+		- A gólyakalifa
+		- Túmár Virgil fia
+		- Halál fiai
+		- Kártyavár
+		- Elza pilóta vagy a tökéletes társadalom
+- Fordító:
+	- középkori himnuszok
+		- Amor Sanctus, Baudelaire
+	- Dante: Isteni színjáték
+		- San Remo-díj
+- Irodalomtörténész
+	- Tanulmányok
+		- Az európai irodalom története
+- Poeta Doctus
+	- Tanult/művelt
+- Poeta Moralis
+	- Az erkölcs költője
+
+### Élete
+- Szekszárd
+	- Jómodú, értelmiségi család
+- Pécsre jár középiskolába
+	- Apa korai halála
+- Pesti egyetem: Magyarország - Franciaország / latin szakos
+	- Négyesy-szeminárium
+		- Kosztolányi Dezső
+		- Juhász Gyula
+			- Barátság
+- Nagyvárad, 1908-1909. A holnap antológiában
+	- 1. megjelenés
+- 1911-től a Nyugat állandótagja
+- 1. kötet (1909)
+	- Levelek Iris koszorújából
+- 1914: Felszólal ellene: pacifista
+- 1921. Tanner Ilona
+	- Török Sophie (álnév, Kazinczy feleségének a neve)
+- 1924. megveszik az Esztergomi nyaralót
+- 1938. Gégeműtét
+	- "Beszélgetőfüzetek"
+- 1941 meghal: Nyugat vége
+
+### In Horatium
+- 1. verseskötete nyitóverse: ars poetica
+- Címe:
+	- "Horatius modorában"
+	- "Horatius ellen"
+		- Elutasítja az arany középszer elvét
+		- "Soha-meg-nem-elégedésnek" a híve
+		- Állandóan változzon a költészet világhoz hasonlóan: Alapelemek: víz, tűz, felhő
+		- Hérakloeitosz: "Nem léphetsz 2x egy patakba"
+			- Változatos, sokszínű költészetet vall jónak, ha a hagyomány + újítás együtt van jelen az eszme vagy forma legyen új
+- Versforma: alkaioszi strófa
+- "Százszínű kerek koszorú"
+	- Kötetcímre utal
+		- 2 rész (Hasonlatok)
+			- Változó világ
+			- Költészet 
+
+### A lírikus epilógia
+- Lírikus: költő
+- Epilógia: Utószó = a kötet záró verse
+- Agnoszticizmus = a világ teljesen nem megismerhető az ember csak önmagát tudja megismerni
+	-  "A mindenséget vágyom"
+	-  "Vak dióként"
+	-  "Bűvös körömből"
+	-  "Magam számára börtön"
+		- Ars poetica: a költő műveinek témája csak önmaga lehet
+			- "Én vagyok az A és a T!"
+			- "Csak én bírok versemnek hőse lenni"
+		- "Megundorodtam"
+		- "Jaj" -> Fájó, lemondó
+			- A lírai ént rossz érzéssel töltö el
+			- 1 folyamat - fokozás érvényesül
+				- Vágyom -> "Azt hiszem -> "de jól tudom"
+			- A vágya nem teljesülhet be
+			- Nietzsche
+				- Tőle a vágy mint nyíl metafora
+- Versforma: szonett
+	- Rímképlet: abab/abab/cde/cde
+
+### Húsvét előtt
+- Cím: Keletkezés ideje
+	- Feltámadás ünnepe előtt
+		- Béke
+- 2 rész:
+	- Tartalmilag és formailag is eltér
+	- 1. rész: E/1-ben szólal meg
+		- "Ha kiszakad ajkam" / "Ha szészakad ajkam, akkor is"
+			- Minden körülmény között felszólal a háború ellen
+
+### Cigány a siralomházban
+- Vörösmarty: A vén cigány c. verse hatott rá
+	- Cigány: a költőt szimbolizálja
+	- Vígaszt nyújtó
+- Babits Mihály: Hasonlat (7. versszak) = cím -> a versre vonatkozik
+	- Siralomház - Magyarország szornyű állapotára utal
+	- "Szomorú világ ez!"
+	- Kilátástalan állapot
+		- Ez ellen szólal fel a közösség érdekében
+			- ARS POETICA
+- A versszerkezete:
+	- 1-3 versszak: összegzi eddigi pályáját
+		- 1. versszak: "hajdan"
+			- korai költészete
+			- Könnyedén alkotott, mint az Úr
+			- Szecessziós stílus
+		- 2. versszak: "később"
+			- háborúellenes versek
+			- Harsány
+		- 3. versszak: jelen -> nehezen alkot, "halkan..."
+			- Könny hasonlat -> Fájdalom tölti el
+	- 4-6 versszak: szegények iránti szánalom a fő témája
+		- Sokan vannak
+		- "Oly szegény" ismétlés
+		- Pici lakásokban élnek: "zord kis skatulya"
+		- Számukra a halál a megváltás
+			- Rájuk vonatkozik a siralomház
+	- 7. versszak: a vers tételmondata
+		- "Szomorú világ ez!"
+		- Összegzése az eddigi versszakoknak
+			- Nehezen ír
+				- Hess, hess... -> Elüldözi a bogarat
+					- Nincs helye a szecessziós verseknek
+	- 8. versszak
+		- Elutasítja a szecessziós verseket
+		- 2. versszakot idézi
+			- Háborúköltészet
+				- Ez nem alkalmas már a jelenben
+		- "Csak könny": ismétlés
+		- Végén költői kérdés
+			- Megkérdőjelezi a költészet szerepét
+		- Első olyan vers ahol pesszimista
 
 <br />
 
